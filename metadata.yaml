@@ -1,0 +1,30 @@
+_repo: Gringalette_43782
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43782-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rebell, Hugues
+    alias: Grassal, Georges-Joseph
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '39073'
+    url: http://www.gutenberg.org/2009/agents/39073
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2013-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43782'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Flagellation -- Fiction'
+tableOfContents: Gringalette -- Un jeu de femme -- Les révoltées de Brescia -- La
+  comédie chez la princesse -- La crinoline.
+title: Gringalette
+url: http://www.gutenberg.org/ebooks/43782
